@@ -5,6 +5,7 @@
 - Run composer install
 - Run sail build
 - Run sail up -d
+- Run mv .env.example .env
 - Run sail artisan migrate
 - Run sail npm run dev
 
